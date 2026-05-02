@@ -51,6 +51,7 @@ This is a Finance Dashboard web application that helps users track their income 
 ---
 
 ## 🎥 Demo Video
+Screen Recording 2026-05-02 194349.mp4
 
 
 ---
