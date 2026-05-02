@@ -47,13 +47,6 @@ This is a Finance Dashboard web application that helps users track their income 
 ### Chart View
 <img width="1857" height="872" alt="image" src="https://github.com/user-attachments/assets/892cd809-f7ca-449a-afc2-962463fb462a" />
 
-
----
-
-## 🎥 Demo Video
-Screen Recording 2026-05-02 194349.mp4
-
-
 ---
 
 ## 📖 How to Use
